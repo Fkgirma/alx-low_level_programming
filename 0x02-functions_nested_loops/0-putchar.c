@@ -1,8 +1,7 @@
 #include "main.h"
 
 /**
- * Desc: A program that prints out _putchar
- * main -prints _putchar
+ * main - prints _putchar
  * Return: Always 0 (success)
  */
 
