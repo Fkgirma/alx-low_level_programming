@@ -1,16 +1,17 @@
 #include "main.h"
 
 /**
- * A program that prints out _putchar
- * main - Entry point
- * Return - Always 0
+ * Desc: A program that prints out _putchar
+ * main -prints _putchar
+ * Return: Always 0 (success)
  */
 
 int main(void)
 {
 	char c[8] = "_putchar";
 	int i;
-	for  (i = 0; i <8; i++)
+	/*For loop*/
+	for (i = 0; i < 8; i++)
 	{
 		_putchar(c[i]);
 	}
